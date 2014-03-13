@@ -14,3 +14,6 @@
 --	print("hello "..i)
 --end
 --
+
+num=1.3
+print(num*2)
